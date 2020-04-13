@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Demoblaze_Suite" duration-ms="107160" started-at="2020-04-13T13:50:29 IST" finished-at="2020-04-13T13:52:16 IST">
+    <groups>
+    </groups>
+    <test name="Demoblaze_Test" duration-ms="107160" started-at="2020-04-13T13:50:29 IST" finished-at="2020-04-13T13:52:16 IST">
+      <class name="com.Demoblaze.TestRunner.Login_TestRunner">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.Demoblaze.TestRunner.Login_TestRunner@9a3d1d]" name="setUP" is-config="true" duration-ms="29" started-at="2020-04-13T13:50:58 IST" finished-at="2020-04-13T13:50:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="login(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.Demoblaze.TestRunner.Login_TestRunner@9a3d1d]" name="login" duration-ms="25925" started-at="2020-04-13T13:50:58 IST" description="Test_Demoblaze" data-provider="features" finished-at="2020-04-13T13:51:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Demoblaze Login Page]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Demoblaze.TestRunner.Login_TestRunner@9a3d1d]" name="tearDown" is-config="true" duration-ms="28" started-at="2020-04-13T13:51:24 IST" finished-at="2020-04-13T13:51:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Demoblaze.TestRunner.Login_TestRunner -->
+      <class name="com.Demoblaze.TestRunner.Contact_TestRunner">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.Demoblaze.TestRunner.Contact_TestRunner@bdb19]" name="setUP" is-config="true" duration-ms="39" started-at="2020-04-13T13:51:57 IST" finished-at="2020-04-13T13:51:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="login(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.Demoblaze.TestRunner.Contact_TestRunner@bdb19]" name="login" duration-ms="18777" started-at="2020-04-13T13:51:57 IST" description="Test_Demoblaze" data-provider="features" finished-at="2020-04-13T13:52:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Demoblaze contact scenario]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Demoblaze.TestRunner.Contact_TestRunner@bdb19]" name="tearDown" is-config="true" duration-ms="28" started-at="2020-04-13T13:52:16 IST" finished-at="2020-04-13T13:52:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Demoblaze.TestRunner.Contact_TestRunner -->
+      <class name="com.Demoblaze.TestRunner.PlacingOrder_TestRunner">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.Demoblaze.TestRunner.PlacingOrder_TestRunner@6be70a]" name="setUP" is-config="true" duration-ms="35" started-at="2020-04-13T13:51:24 IST" finished-at="2020-04-13T13:51:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="login(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.Demoblaze.TestRunner.PlacingOrder_TestRunner@6be70a]" name="login" duration-ms="33105" started-at="2020-04-13T13:51:24 IST" description="Test_Demoblaze" data-provider="features" finished-at="2020-04-13T13:51:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Demoblaze product ordering]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Demoblaze.TestRunner.PlacingOrder_TestRunner@6be70a]" name="tearDown" is-config="true" duration-ms="32" started-at="2020-04-13T13:51:57 IST" finished-at="2020-04-13T13:51:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Demoblaze.TestRunner.PlacingOrder_TestRunner -->
+      <class name="com.Demoblaze.TestRunner.Signup_TestRunner">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.Demoblaze.TestRunner.Signup_TestRunner@1553d26]" name="setUP" is-config="true" duration-ms="943" started-at="2020-04-13T13:50:29 IST" finished-at="2020-04-13T13:50:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="login(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.Demoblaze.TestRunner.Signup_TestRunner@1553d26]" name="login" duration-ms="27930" started-at="2020-04-13T13:50:30 IST" description="Test_Demoblaze" data-provider="features" finished-at="2020-04-13T13:50:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Demoblaze SignUp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Demoblaze.TestRunner.Signup_TestRunner@1553d26]" name="tearDown" is-config="true" duration-ms="24" started-at="2020-04-13T13:50:58 IST" finished-at="2020-04-13T13:50:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Demoblaze.TestRunner.Signup_TestRunner -->
+    </test> <!-- Demoblaze_Test -->
+  </suite> <!-- Demoblaze_Suite -->
+</testng-results>

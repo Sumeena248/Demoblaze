@@ -1,0 +1,4 @@
+chromeDriver= C:\\Users\\Sumeena\\eclipse-workspace\\Demoblaze\\src\\test\\resources\\binaries\\chromedriver.exe
+firefoxDriver= C:\\Users\\Sumeena\\eclipse-workspace\\Demoblaze\\src\\test\\resources\\binaries\\geckodriver.exe
+URL = https://www.demoblaze.com/
+Excelpath= C:\\Users\\Sumeena\\eclipse-workspace\\Demoblaze\\src\\test\\resources\\XLSX\\TestData.xlsx

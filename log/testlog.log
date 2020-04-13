@@ -1,0 +1,445 @@
+2020-04-12 19:13:22,136 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:13:23,024 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-12 19:13:26,910 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-12 19:13:27,117 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-12 19:13:27,469 - ContactStepDefinition -INFO -  Message is entered
+2020-04-12 19:13:27,657 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-12 19:13:27,702 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-12 19:13:28,654 - ContactStepDefinition -INFO - Browser is closed
+2020-04-12 19:13:51,461 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:13:52,667 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-12 19:13:55,570 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-12 19:14:21,851 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:14:23,206 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-12 19:14:24,355 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-12 19:14:26,928 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-12 19:15:10,819 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:15:15,403 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-12 19:24:00,716 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:24:01,278 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-12 19:24:04,855 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-12 19:24:05,106 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-12 19:24:05,655 - ContactStepDefinition -INFO -  Message is entered
+2020-04-12 19:24:06,104 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-12 19:24:06,151 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-12 19:24:07,636 - ContactStepDefinition -INFO - Browser is closed
+2020-04-12 19:24:23,359 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:24:24,773 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-12 19:24:27,387 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-12 19:24:48,318 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:24:49,700 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-12 19:24:51,017 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-12 19:24:54,466 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-12 19:24:55,722 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-12 19:24:55,760 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-12 19:24:58,572 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-12 19:24:58,820 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-12 19:24:59,699 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-12 19:25:00,139 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-12 19:25:00,704 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-12 19:25:01,617 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-12 19:25:02,035 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-12 19:25:04,513 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-12 19:25:06,711 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-12 19:25:07,640 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-12 19:25:25,503 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:25:25,858 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-12 19:25:26,838 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-12 19:25:27,976 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-12 19:25:30,046 - SignUpStepDefinition -INFO -  pop-up handled
+2020-04-12 19:27:37,973 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:27:38,473 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-12 19:27:42,504 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-12 19:27:42,910 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-12 19:27:43,638 - ContactStepDefinition -INFO -  Message is entered
+2020-04-12 19:27:43,858 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-12 19:27:43,905 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-12 19:27:44,845 - ContactStepDefinition -INFO - Browser is closed
+2020-04-12 19:27:58,740 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:28:00,016 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-12 19:28:02,934 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-12 19:28:24,547 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:28:25,924 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-12 19:28:27,054 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-12 19:28:31,372 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-12 19:28:32,599 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-12 19:28:32,802 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-12 19:28:36,440 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-12 19:28:36,667 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-12 19:28:37,441 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-12 19:28:37,749 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-12 19:28:38,027 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-12 19:28:38,782 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-12 19:28:39,281 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-12 19:28:41,752 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-12 19:28:44,686 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-12 19:28:45,701 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-12 19:29:02,506 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:29:02,830 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-12 19:29:04,224 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-12 19:29:05,518 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-12 19:31:43,693 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:31:44,136 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-12 19:31:47,427 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-12 19:31:47,562 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-12 19:31:47,810 - ContactStepDefinition -INFO -  Message is entered
+2020-04-12 19:31:48,461 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-12 19:31:48,500 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-12 19:31:49,907 - ContactStepDefinition -INFO - Browser is closed
+2020-04-12 19:32:04,225 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:32:05,435 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-12 19:32:08,352 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-12 19:32:14,786 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-12 19:32:15,655 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-12 19:32:28,633 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:32:30,040 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-12 19:32:31,207 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-12 19:32:34,166 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-12 19:32:46,980 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:32:47,196 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-12 19:32:47,964 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-12 19:32:49,151 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-12 19:33:59,568 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:34:00,717 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-12 19:34:04,184 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-12 19:34:04,647 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-12 19:34:05,270 - ContactStepDefinition -INFO -  Message is entered
+2020-04-12 19:34:05,447 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-12 19:34:05,488 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-12 19:34:06,470 - ContactStepDefinition -INFO - Browser is closed
+2020-04-12 19:34:22,422 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:34:23,838 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-12 19:34:26,758 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-12 19:34:33,882 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-12 19:34:35,183 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-12 19:34:50,131 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:34:51,459 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-12 19:34:52,692 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-12 19:34:55,835 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-12 19:34:57,050 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-12 19:34:57,086 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-12 19:34:59,433 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-12 19:34:59,568 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-12 19:35:00,266 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-12 19:35:00,500 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-12 19:35:00,835 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-12 19:35:01,635 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-12 19:35:17,836 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:35:18,039 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-12 19:35:19,016 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-12 19:35:20,176 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-12 19:37:25,669 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:37:26,000 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-12 19:37:29,530 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-12 19:37:29,756 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-12 19:37:30,542 - ContactStepDefinition -INFO -  Message is entered
+2020-04-12 19:37:30,897 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-12 19:37:30,980 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-12 19:37:31,931 - ContactStepDefinition -INFO - Browser is closed
+2020-04-12 19:37:47,277 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:37:48,694 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-12 19:37:51,516 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-12 19:37:58,225 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-12 19:37:59,164 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-12 19:38:13,497 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:38:14,809 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-12 19:38:16,037 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-12 19:38:19,189 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-12 19:38:20,410 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-12 19:38:20,422 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-12 19:38:22,912 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-12 19:38:23,171 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-12 19:38:24,081 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-12 19:38:25,317 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-12 19:38:25,630 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-12 19:38:26,431 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-12 19:38:26,862 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-12 19:38:29,583 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-12 19:38:31,232 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-12 19:38:32,528 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-12 19:38:45,553 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:38:45,932 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-12 19:38:47,285 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-12 19:38:48,628 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-12 19:38:51,640 - SignUpStepDefinition -INFO -  pop-up handled
+2020-04-12 19:38:52,531 - SignUpStepDefinition -INFO - Browser is closed
+2020-04-12 19:44:02,782 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:44:03,461 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-12 19:44:06,834 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-12 19:44:07,093 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-12 19:44:07,795 - ContactStepDefinition -INFO -  Message is entered
+2020-04-12 19:44:08,158 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-12 19:44:08,266 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-12 19:44:09,671 - ContactStepDefinition -INFO - Browser is closed
+2020-04-12 19:44:24,434 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:44:25,657 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-12 19:44:28,752 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-12 19:44:33,891 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-12 19:44:35,275 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-12 19:44:48,650 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:44:50,200 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-12 19:44:51,398 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-12 19:44:54,609 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-12 19:44:56,021 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-12 19:44:56,033 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-12 19:44:58,815 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-12 19:44:58,994 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-12 19:44:59,734 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-12 19:45:01,167 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-12 19:45:01,553 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-12 19:45:02,335 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-12 19:45:02,872 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-12 19:45:05,336 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-12 19:45:06,941 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-12 19:45:08,084 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-12 19:45:21,584 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:45:21,853 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-12 19:45:22,522 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-12 19:45:23,759 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-12 19:49:04,148 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:49:04,598 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-12 19:49:08,001 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-12 19:49:08,246 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-12 19:49:08,702 - ContactStepDefinition -INFO -  Message is entered
+2020-04-12 19:49:08,878 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-12 19:49:08,929 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-12 19:49:10,144 - ContactStepDefinition -INFO - Browser is closed
+2020-04-12 19:49:29,498 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:49:30,839 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-12 19:49:33,725 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-12 19:49:40,778 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-12 19:49:41,685 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-12 19:49:54,635 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:49:56,015 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-12 19:49:57,219 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-12 19:50:00,412 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-12 19:50:01,643 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-12 19:50:01,654 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-12 19:50:04,230 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-12 19:50:04,399 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-12 19:50:04,914 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-12 19:50:06,129 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-12 19:50:06,401 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-12 19:50:07,024 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-12 19:50:07,411 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-12 19:50:09,897 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-12 19:50:11,898 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-12 19:50:12,778 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-12 19:50:27,136 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:50:27,424 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-12 19:50:28,169 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-12 19:50:29,398 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-12 19:52:12,948 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:52:13,652 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-12 19:52:17,046 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-12 19:52:17,352 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-12 19:52:18,064 - ContactStepDefinition -INFO -  Message is entered
+2020-04-12 19:52:18,239 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-12 19:52:18,342 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-12 19:52:19,859 - ContactStepDefinition -INFO - Browser is closed
+2020-04-12 19:52:39,109 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:52:40,744 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-12 19:52:43,562 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-12 19:52:51,213 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-12 19:52:52,088 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-12 19:53:05,361 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 19:53:06,755 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-12 19:53:07,912 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-12 19:53:11,230 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-12 19:53:12,432 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-12 19:53:12,457 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-12 19:53:15,188 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-12 19:53:15,327 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-12 19:53:15,911 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-12 19:53:17,248 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-12 19:53:17,797 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-12 19:53:18,648 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-12 19:53:19,141 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-12 19:53:21,641 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-12 19:53:23,243 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-12 19:53:24,425 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-12 19:53:36,790 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 19:53:36,964 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-12 19:53:37,846 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-12 19:53:39,019 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-12 19:53:42,031 - SignUpStepDefinition -INFO -  pop-up handled
+2020-04-12 19:53:43,222 - SignUpStepDefinition -INFO - Browser is closed
+2020-04-12 21:35:05,010 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 21:35:05,834 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-12 21:35:09,289 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-12 21:35:09,525 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-12 21:35:10,025 - ContactStepDefinition -INFO -  Message is entered
+2020-04-12 21:35:10,445 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-12 21:35:10,519 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-12 21:35:12,061 - ContactStepDefinition -INFO - Browser is closed
+2020-04-12 21:35:33,026 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 21:35:34,643 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-12 21:35:37,174 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-12 21:35:43,979 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-12 21:35:44,825 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-12 21:35:59,854 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-12 21:36:01,245 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-12 21:36:02,684 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-12 21:36:06,191 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-12 21:36:07,547 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-12 21:36:07,566 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-12 21:36:10,206 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-12 21:36:10,389 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-12 21:36:10,950 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-12 21:36:12,158 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-12 21:36:12,542 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-12 21:36:13,811 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-12 21:36:14,111 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-12 21:36:16,706 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-12 21:36:18,971 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-12 21:36:20,162 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-12 21:36:34,872 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-12 21:36:35,278 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-12 21:36:36,426 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-12 21:36:37,730 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-12 21:36:40,758 - SignUpStepDefinition -INFO -  pop-up handled
+2020-04-12 21:36:41,763 - SignUpStepDefinition -INFO - Browser is closed
+2020-04-13 10:55:32,149 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-13 10:55:33,775 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-13 10:55:37,358 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-13 10:55:37,609 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-13 10:55:37,960 - ContactStepDefinition -INFO -  Message is entered
+2020-04-13 10:55:38,123 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-13 10:55:38,253 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-13 10:55:39,554 - ContactStepDefinition -INFO - Browser is closed
+2020-04-13 10:55:54,513 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-13 10:55:55,722 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-13 10:55:58,334 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-13 10:56:04,349 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-13 10:56:05,179 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-13 10:56:19,061 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-13 10:56:20,339 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-13 10:56:21,479 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-13 10:56:24,405 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-13 10:56:25,632 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-13 10:56:25,679 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-13 10:56:29,399 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-13 10:56:29,550 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-13 10:56:29,923 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-13 10:56:31,189 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-13 10:56:31,455 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-13 10:56:31,956 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-13 10:56:32,240 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-13 10:56:34,765 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-13 10:56:36,723 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-13 10:56:37,777 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-13 10:56:51,051 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-13 10:56:51,408 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-13 10:56:51,942 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-13 10:56:53,081 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-13 10:56:56,094 - SignUpStepDefinition -INFO -  pop-up handled
+2020-04-13 10:56:56,924 - SignUpStepDefinition -INFO - Browser is closed
+2020-04-13 13:31:25,159 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-13 13:31:27,181 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-13 13:31:29,847 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-13 13:31:40,331 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-13 13:31:41,415 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-13 13:31:54,583 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-13 13:31:55,730 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-13 13:31:58,566 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-13 13:32:16,371 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-13 13:32:17,606 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-13 13:32:18,842 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-13 13:32:21,792 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-13 13:32:23,034 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-13 13:32:23,111 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-13 13:32:26,073 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-13 13:32:26,295 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-13 13:32:26,711 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-13 13:32:27,973 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-13 13:32:28,262 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-13 13:32:28,845 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-13 13:32:29,177 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-13 13:32:31,883 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-13 13:32:34,238 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-13 13:32:35,131 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-13 13:32:47,670 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-13 13:32:49,733 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-13 13:32:53,161 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-13 13:32:53,490 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-13 13:32:53,972 - ContactStepDefinition -INFO -  Message is entered
+2020-04-13 13:32:54,170 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-13 13:32:54,222 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-13 13:32:55,503 - ContactStepDefinition -INFO - Browser is closed
+2020-04-13 13:40:21,302 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-13 13:40:22,581 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-13 13:40:25,225 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-13 13:40:30,450 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-13 13:40:31,329 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-13 13:41:28,900 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-13 13:41:30,215 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-13 13:41:31,414 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-13 13:44:50,705 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-13 13:44:52,286 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-13 13:44:55,131 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-13 13:45:03,066 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-13 13:45:03,940 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-13 13:45:17,933 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-13 13:45:19,131 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-13 13:45:21,970 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-13 13:45:28,024 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-13 13:45:28,881 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-13 13:45:44,383 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-13 13:45:45,799 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-13 13:45:46,937 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-13 13:45:50,087 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-13 13:45:51,308 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-13 13:45:51,349 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-13 13:45:55,196 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-13 13:45:55,374 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-13 13:45:55,815 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-13 13:45:57,004 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-13 13:45:57,247 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-13 13:45:57,862 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-13 13:45:58,197 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-13 13:46:00,870 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-13 13:46:02,411 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-13 13:46:03,218 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-13 13:46:18,742 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-13 13:46:18,984 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-13 13:46:22,504 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-13 13:46:22,722 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-13 13:46:23,181 - ContactStepDefinition -INFO -  Message is entered
+2020-04-13 13:46:23,349 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-13 13:46:23,368 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-13 13:46:24,798 - ContactStepDefinition -INFO - Browser is closed
+2020-04-13 13:50:50,645 - SignUpStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-13 13:50:51,161 - SignUpStepDefinition -INFO -  Click action performed on SignUp link 
+2020-04-13 13:50:51,900 - SignUpStepDefinition -INFO -  Credentials Entered are-->username: demo password: demo111
+2020-04-13 13:50:53,116 - SignUpStepDefinition -INFO -  Click action performed on SignUp Button
+2020-04-13 13:50:56,146 - SignUpStepDefinition -INFO -  pop-up handled
+2020-04-13 13:50:57,489 - SignUpStepDefinition -INFO - Browser is closed
+2020-04-13 13:51:13,428 - LoginStepDefinition -INFO -  Browser is opened and Navigated to url
+2020-04-13 13:51:14,745 - LoginStepDefinition -INFO -  Click action performed on Login link
+2020-04-13 13:51:17,486 - LoginStepDefinition -INFO -  Credentials Entered are-->username: demoblaze1 password: demoblaze123
+2020-04-13 13:51:23,091 - LoginStepDefinition -INFO -  Click action performed on Login button
+2020-04-13 13:51:23,961 - LoginStepDefinition -INFO -  Browser is Closed
+2020-04-13 13:51:37,651 - PlacingOrderStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-13 13:51:38,917 - PlacingOrderStepDefinition -INFO -  Click action performed  on Laptops link in categories
+2020-04-13 13:51:40,065 - PlacingOrderStepDefinition -INFO -  Click action performed on NEXT button
+2020-04-13 13:51:43,118 - PlacingOrderStepDefinition -INFO -  Click action performed on the product
+2020-04-13 13:51:44,501 - PlacingOrderStepDefinition -INFO -  Click action performed on add to cart button
+2020-04-13 13:51:44,531 - PlacingOrderStepDefinition -INFO -  Pop-up is handled
+2020-04-13 13:51:46,725 - PlacingOrderStepDefinition -INFO - Click action performed on the cart
+2020-04-13 13:51:47,099 - PlacingOrderStepDefinition -INFO - Click action performed  on Place Order button
+2020-04-13 13:51:47,893 - PlacingOrderStepDefinition -INFO - Entered Customer Name
+2020-04-13 13:51:49,106 - PlacingOrderStepDefinition -INFO - Entered Country Name
+2020-04-13 13:51:49,340 - PlacingOrderStepDefinition -INFO - Entered City Name
+2020-04-13 13:51:49,933 - PlacingOrderStepDefinition -INFO - Entered Credit Card Details
+2020-04-13 13:51:50,332 - PlacingOrderStepDefinition -INFO - Click action performed on purchase buttton
+2020-04-13 13:51:52,830 - PlacingOrderStepDefinition -INFO - Screenshot is Captured
+2020-04-13 13:51:56,342 - PlacingOrderStepDefinition -INFO - Click action performed on OK button
+2020-04-13 13:51:57,152 - PlacingOrderStepDefinition -INFO - Browser is closed
+2020-04-13 13:52:10,137 - ContactStepDefinition -INFO -  Browser opened and Navigated to url
+2020-04-13 13:52:10,375 - ContactStepDefinition -INFO -  Click action performed on Contact link
+2020-04-13 13:52:13,781 - ContactStepDefinition -INFO -  Contact E-mail is entered
+2020-04-13 13:52:14,036 - ContactStepDefinition -INFO -  Contact Name is entered
+2020-04-13 13:52:14,553 - ContactStepDefinition -INFO -  Message is entered
+2020-04-13 13:52:14,713 - ContactStepDefinition -INFO - Click action performed on Send button
+2020-04-13 13:52:14,790 - ContactStepDefinition -INFO - Pop-up is handled
+2020-04-13 13:52:16,083 - ContactStepDefinition -INFO - Browser is closed
